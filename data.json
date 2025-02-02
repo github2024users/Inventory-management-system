@@ -1,0 +1,30 @@
+{
+    "1001": {
+        "name": "COMPUTER",
+        "price": 51000,
+        "quantity": 21,
+        "category": "ELECTRONICS",
+        "date": "25/12/2024"
+    },
+    "1002": {
+        "name": "Mouse",
+        "price": 54,
+        "quantity": 76,
+        "category": "ELECTRONICS",
+        "date": "25/12/2024"
+    },
+    "1003": {
+        "name": "Keyboard",
+        "price": 230,
+        "quantity": 56,
+        "category": "ELECTRONIC",
+        "date": "25/12/2024"
+    },
+    "1004": {
+        "name": "Monitor",
+        "price": 4300,
+        "quantity": 54,
+        "category": "ELECTRNONICS",
+        "date": "25/12/2024"
+    }
+}
